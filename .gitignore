@@ -1,2 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Build results
 bin/
 obj/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.db
+
+# Rider / VS Code / JetBrains
+.idea/
+.vscode/
+
+# Copilot and Code Indexes
+.vs/**/CopilotIndices/
+.vs/**/FileContentIndex/
+.vs/**/DesignTimeBuild/
+.vs/**/TestStore/
+.vs/**/.futdcache.*
+.vs/**/DocumentLayout*.json
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+*.dgspec.json
+*.nuget.cache
+project.assets.json
+
+# Others
+*.editorconfig
+*.dtbcache.v2
+*.AssemblyInfoInputs.cache

@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "D:\\summer2025.fpt\\PRN212\\PRN Project\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A5CED40-2B66-461D-BC62-554E0981B622}|HelloWorld.csproj|d:\\summer2025.fpt\\prn212\\prn project\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A5CED40-2B66-461D-BC62-554E0981B622}|HelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05C0108F-211A-45F0-88F3-1D731D10B29E}|..\\TestProject\\TestProject.csproj|d:\\summer2025.fpt\\prn212\\prn project\\testproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C0108F-211A-45F0-88F3-1D731D10B29E}|..\\TestProject\\TestProject.csproj|d:\\summer2025.fpt\\prn212\\prn project\\testproject\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +25,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\summer2025.fpt\\PRN212\\PRN Project\\HelloWorld\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\summer2025.fpt\\PRN212\\PRN Project\\HelloWorld\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\summer2025.fpt\\PRN212\\PRN Project\\TestProject\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\Test1.cs",
+              "ToolTip": "D:\\summer2025.fpt\\PRN212\\PRN Project\\TestProject\\Test1.cs",
+              "RelativeToolTip": "..\\TestProject\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:11:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\summer2025.fpt\\PRN212\\PRN Project\\TestProject\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\MSTestSettings.cs",
+              "ToolTip": "D:\\summer2025.fpt\\PRN212\\PRN Project\\TestProject\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\TestProject\\MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:29:18.903Z",
+              "WhenOpened": "2025-06-23T07:09:51.808Z",
               "EditorCaption": ""
             }
           ]
